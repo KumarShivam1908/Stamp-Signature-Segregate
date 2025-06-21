@@ -3,10 +3,7 @@
 # Dataset used
 https://www.kaggle.com/datasets/kumarshivam1411/segment-overlapping-sign-stamp
 
-## AIQoD Hackathon '25 | Problem Statement 3
-
-A comprehensive solution for extracting overlapping stamps and signatures from documents using YOLO object detection and Nvidia's SegFormer for semantic segmentation, followed by advanced image processing techniques. This project is the result of the collective efforts of Shivam, Arin, Varad, and Yasir for the AIQoD hackathon organized at VIT Chennai.
-
+A comprehensive solution for extracting overlapping stamps and signatures from documents using YOLO object detection and Nvidia's SegFormer for semantic segmentation, followed by advanced image processing techniques. This project is the result of the collective efforts of Shivam, Arin, Varad, and Yasir .
 ## 📋 Overview  
 
 Minecraftors StampExtractor is a document processing tool designed to:  
